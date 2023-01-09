@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-COMMON_PATH := device/xiaomi/mithorium-common
+COMMON_PATH := device/xiaomi/mithorium-common-4.19
 
 # Architecture
 TARGET_ARCH := arm64

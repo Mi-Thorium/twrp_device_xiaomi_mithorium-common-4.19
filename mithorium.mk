@@ -4,7 +4,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-TARGET_USES_XIAOMI_MITHORIUM_COMMON_TREE := true
+TARGET_USES_XIAOMI_MITHORIUM_COMMON_4_19_TREE := true
 
 # Inherit AOSP product makefiles
 $(call inherit-product, $(SRC_TARGET_DIR)/product/base.mk)
